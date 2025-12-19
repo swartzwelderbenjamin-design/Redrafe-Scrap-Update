@@ -1,5 +1,6 @@
-# Scrap Resource
+# Scrap Resource Update
 
+Original mod by Redrafe just tweaked the code to work with current version of the game
 Adds scrap as a new resource to be further processed and downgraded into other products.
 
 Based off [FFF#399 - Trash to Treasure](https://www.factorio.com/blog/post/fff-399)
