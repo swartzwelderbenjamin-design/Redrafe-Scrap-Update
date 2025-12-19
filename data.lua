@@ -103,7 +103,7 @@ if scrap_recipe() then
       name = 'scrap-recycling',
       type = 'recipe',
       enabled = true,
-      ingredients = {{ type = 'item', name = 'scrap', amount = '1' }},
+      ingredients = {{ type = 'item', name = 'scrap', amount = 1 }},
       results = table.deepcopy(scrap.minable.results),
       icon = '__scrap-resource__/graphics/hr-icon-scrap.png',
       icon_mipmaps = 1,
